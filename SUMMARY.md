@@ -3,18 +3,18 @@
 * [BIM-стандарт](README.md)
 * [История изменений](changes.md)
 
-## 1. Основное <a href="#general" id="general"></a>
+## 1. Основное
 
-* [1.1. Общие положения и требован](general/common.md)
-* [1.2. Термины и определения](general/terms.md)
-* [1.3. Файловая структура документа](general/doc-structure.md)
+* [1.1. Общие положения и требован](1.-osnovnoe/1.1.-obshie-polozheniya-i-trebovan.md)
+* [1.2. Термины и определения](1.-osnovnoe/1.2.-terminy-i-opredeleniya.md)
+* [1.3. Файловая структура документа](1.-osnovnoe/1.3.-failovaya-struktura-dokumenta.md)
 
-## 2. Общие правила работы <a href="#general-rules" id="general-rules"></a>
+## 2. Общие правила работы
 
-* [2.1. Работа с программой Revit](general-rules/2.1.-rabota-s-programmoi-revit.md)
-* [2.2. Рабочие наборы](general-rules/2.2.-rabochie-nabory.md)
-* [2.3. Связь файлов моделей](general-rules/2.3.-svyaz-failov-modelei.md)
-* [2.4. Требования к семействам Revit](general-rules/2.4.-trebovaniya-k-semeistvam-revit.md)
+* [2.1. Работа с программой Revit](2.-obshie-pravila-raboty/2.1.-rabota-s-programmoi-revit.md)
+* [2.2. Рабочие наборы](2.-obshie-pravila-raboty/2.2.-rabochie-nabory.md)
+* [2.3. Связь файлов моделей](2.-obshie-pravila-raboty/2.3.-svyaz-failov-modelei.md)
+* [2.4. Требования к семействам Revit](2.-obshie-pravila-raboty/2.4.-trebovaniya-k-semeistvam-revit.md)
 
 ## 3. Правила построения имен и организация проекта
 
@@ -35,11 +35,12 @@
 * [4.1. Организация видов](4.-organizaciya-brauzera-proekta/4.1.-organizaciya-vidov.md)
 * [4.2. Организация спецификаций](4.-organizaciya-brauzera-proekta/4.2.-organizaciya-specifikacii.md)
 
-## 5. Требования к моделированию
+## 5. Требования к моделированию и правила работы
 
-* [5.1. Основные требования к элементам моделей Revit всех разделов](5.-trebovaniya-k-modelirovaniyu/5.1.-osnovnye-trebovaniya-k-elementam-modelei-revit-vsekh-razdelov.md)
-* [5.2. Ограничения при работе в Revit](5.-trebovaniya-k-modelirovaniyu/5.2.-ogranicheniya-pri-rabote-v-revit.md)
-* [5.3. Координация моделей](5.-trebovaniya-k-modelirovaniyu/5.3.-koordinaciya-modelei.md)
-* [5.4. Мониторинг осей и уровней](5.-trebovaniya-k-modelirovaniyu/5.4.-monitoring-osei-i-urovnei.md)
-* [5.5. Архитектурные решения](5.-trebovaniya-k-modelirovaniyu/5.5.-arkhitekturnye-resheniya.md)
-* [5.6. Конструктивные решения](5.-trebovaniya-k-modelirovaniyu/5.6.-konstruktivnye-resheniya.md)
+* [5.1. Основные требования к элементам моделей Revit всех разделов](5.-trebovaniya-k-modelirovaniyu-i-pravila-raboty/5.1.-osnovnye-trebovaniya-k-elementam-modelei-revit-vsekh-razdelov.md)
+* [5.2. Ограничения при работе в Revit](5.-trebovaniya-k-modelirovaniyu-i-pravila-raboty/5.2.-ogranicheniya-pri-rabote-v-revit.md)
+* [5.3. Координация моделей](5.-trebovaniya-k-modelirovaniyu-i-pravila-raboty/5.3.-koordinaciya-modelei.md)
+* [5.4. Мониторинг осей и уровней](5.-trebovaniya-k-modelirovaniyu-i-pravila-raboty/5.4.-monitoring-osei-i-urovnei.md)
+* [5.5. Архитектурные решения](5.-trebovaniya-k-modelirovaniyu-i-pravila-raboty/5.5.-arkhitekturnye-resheniya.md)
+* [5.6. Конструктивные решения](5.-trebovaniya-k-modelirovaniyu-i-pravila-raboty/5.6.-konstruktivnye-resheniya.md)
+* [5.7. Инженерные решения](5.-trebovaniya-k-modelirovaniyu-i-pravila-raboty/5.7.-inzhenernye-resheniya.md)
