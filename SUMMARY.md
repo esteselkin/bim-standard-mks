@@ -2,12 +2,7 @@
 
 * [BIM-стандарт](README.md)
 * [История изменений](changes.md)
-
-## 1. Основное
-
-* [1.1. Общие положения и требован](1.-osnovnoe/1.1.-obshie-polozheniya-i-trebovan.md)
-* [1.2. Термины и определения](1.-osnovnoe/1.2.-terminy-i-opredeleniya.md)
-* [1.3. Файловая структура документа](1.-osnovnoe/1.3.-failovaya-struktura-dokumenta.md)
+* [1. Основное](1.-osnovnoe.md)
 
 ## 2. Общие правила работы
 
