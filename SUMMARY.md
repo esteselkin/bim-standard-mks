@@ -16,17 +16,17 @@
 * [2.3. Связь файлов моделей](2.-obshie-pravila-raboty/2.3.-svyaz-failov-modelei.md)
 * [2.4. Требования к семействам Revit](2.-obshie-pravila-raboty/2.4.-trebovaniya-k-semeistvam-revit.md)
 
-## 3. Правила построения имен и организация проекта
+## 3. Правила построения имен
 
-* [3.1. Основной принцип формирования имён](3.-pravila-postroeniya-imen-i-organizaciya-proekta/3.1.-osnovnoi-princip-formirovaniya-imyon.md)
-* [3.2. Наименование файла проекта](3.-pravila-postroeniya-imen-i-organizaciya-proekta/3.2.-naimenovanie-faila-proekta.md)
-* [3.3. Наименование рабочих наборов](3.-pravila-postroeniya-imen-i-organizaciya-proekta/3.3.-naimenovanie-rabochikh-naborov.md)
-* [3.4. Наименование уровней](3.-pravila-postroeniya-imen-i-organizaciya-proekta/3.4.-naimenovanie-urovnei.md)
-* [3.5. Наименование системных семейств](3.-pravila-postroeniya-imen-i-organizaciya-proekta/3.5.-naimenovanie-sistemnykh-semeistv.md)
-* [3.6. Наименование загружаемых семейств](3.-pravila-postroeniya-imen-i-organizaciya-proekta/3.6.-naimenovanie-zagruzhaemykh-semeistv.md)
-* [3.7. Наименование видов](3.-pravila-postroeniya-imen-i-organizaciya-proekta/3.7.-naimenovanie-vidov.md)
-* [3.8. Наименование шаблонов видов](3.-pravila-postroeniya-imen-i-organizaciya-proekta/3.8.-naimenovanie-shablonov-vidov.md)
-* [3.9. Наименование фильтров отображения](3.-pravila-postroeniya-imen-i-organizaciya-proekta/3.9.-naimenovanie-filtrov-otobrazheniya.md)
+* [3.1. Основной принцип формирования имён](3.-pravila-postroeniya-imen/3.1.-osnovnoi-princip-formirovaniya-imyon.md)
+* [3.2. Наименование файла проекта](3.-pravila-postroeniya-imen/3.2.-naimenovanie-faila-proekta.md)
+* [3.3. Наименование рабочих наборов](3.-pravila-postroeniya-imen/3.3.-naimenovanie-rabochikh-naborov.md)
+* [3.4. Наименование уровней](3.-pravila-postroeniya-imen/3.4.-naimenovanie-urovnei.md)
+* [3.5. Наименование системных семейств](3.-pravila-postroeniya-imen/3.5.-naimenovanie-sistemnykh-semeistv.md)
+* [3.6. Наименование загружаемых семейств](3.-pravila-postroeniya-imen/3.6.-naimenovanie-zagruzhaemykh-semeistv.md)
+* [3.7. Наименование видов](3.-pravila-postroeniya-imen/3.7.-naimenovanie-vidov.md)
+* [3.8. Наименование шаблонов видов](3.-pravila-postroeniya-imen/3.8.-naimenovanie-shablonov-vidov.md)
+* [3.9. Наименование фильтров отображения](3.-pravila-postroeniya-imen/3.9.-naimenovanie-filtrov-otobrazheniya.md)
 
 ## 4. Организация браузера проекта
 
